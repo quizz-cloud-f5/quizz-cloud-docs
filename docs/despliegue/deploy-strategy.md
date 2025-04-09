@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 id: deploy-strategy
 title: Estrategia de Despliegue
 sidebar_label: Estrategia de Despliegue

@@ -1,4 +1,4 @@
-    ---
+---
 sidebar_position: 1
 id: create-a-user
 title: User Create
