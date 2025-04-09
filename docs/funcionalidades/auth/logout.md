@@ -41,11 +41,8 @@ sidebar_label: Logout
 
 ## 🖼️ Capturas
 
-> (Opcionalmente puedes añadir un botón de logout visible en la barra superior)
 
-```tsx
-<Button onClick={logout}>Cerrar sesión</Button>
-```
+![Logout desde Sidebar](https://github.com/user-attachments/assets/fd14aa93-0072-4ebc-b7c9-cef23c598f22)
 
 ---
 
